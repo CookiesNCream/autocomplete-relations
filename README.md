@@ -1,4 +1,4 @@
-Instructions to run the Autocomplete Widget
+# Instructions to run the Autocomplete Widget
 
 1. Download the WinRAR ZIP archive
 2. Decompress the WinRAR ZIP archive
