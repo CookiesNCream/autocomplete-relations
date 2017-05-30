@@ -9,4 +9,4 @@
 7. Do step 5 to see the Autocomplete - Mentions, Autocomplete - Relations, and Autocomplete Mentions and Pure Hashtags in action. 
 
 # License
-[See LICENSE](https://github.com/CookiesNCream/autocomplete-mentions/blob/master/LICENSE.md)
+[See LICENSE](https://github.com/CookiesNCream/autocomplete-relations/blob/master/LICENSE.md)
