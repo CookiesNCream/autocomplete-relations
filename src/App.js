@@ -1,4 +1,4 @@
-/* By Linda Lim | Autocomplete Widget | BSD 3-Clause License | https://github.com/CookiesNCream/autocomplete-widget */
+/* By Linda Lim | Autocomplete Widget | BSD 3-Clause License | https://github.com/CookiesNCream/autocomplete-relations */
 import 'draft-js/dist/Draft.css'; /* For editor and placeholder text styling */
 import './App.css'; /* For customized styles */
 import 'draft-js-mention-plugin/lib/plugin.css'; // eslint-disable-line import/no-unresolved

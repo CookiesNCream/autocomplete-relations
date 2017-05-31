@@ -1,7 +1,12 @@
 {
-  "name": "my-app",
+  "name": "autocomplete-relations",
   "version": "0.1.0",
   "private": true,
+  "devDependencies": {
+    "css-loader": "^0.28.4",
+    "react-scripts": "1.0.7",
+    "style-loader": "^0.18.1"
+  },
   "dependencies": {
     "draft-js": "^0.10.1",
     "draft-js-hashtag-plugin": "^2.0.0-rc2",
@@ -9,11 +14,6 @@
     "draft-js-plugins-editor": "^2.0.0-rc2",
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
-  },
-  "devDependencies": {
-    "css-loader": "^0.28.3",
-    "react-scripts": "1.0.2",
-    "style-loader": "^0.18.1"
   },
   "scripts": {
     "start": "react-scripts start",
